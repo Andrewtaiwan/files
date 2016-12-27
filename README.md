@@ -1,37 +1,94 @@
-## Welcome to GitHub Pages
+#HTML example of [Andrewyg-Files](http://files.andrewyg.net)
 
-You can use the [editor on GitHub](https://github.com/Andrewtaiwan/files/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+'''HTML
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>Christmas Season of AYTW</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- old cookie font version  <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet">  -->
+    <link rel="stylesheet" type="text/css" href="https://files.aytw.ml/dropdown-box/standard.css">
+   
+    <link href="https://fonts.googleapis.com/css?family=Codystar|Cookie|Cormorant+Upright|Megrim" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="standard.css" media="screen">
+    <link rel="shortcut icon" href="logo/Aylogo.ico" />
+    <link rel="apple-touch-icon" href="logo/Aylogo.png" />
+  </head>
+  <body>
+    <br>
+    <div class="backinner">
+      <div class="title">
+        <br><br>
+        <center>
+        <ti class="center">Merry Christmas Lulu</ti>
+        </center>
+          </div>
+      <div class="inner">
+        <br>
+        <!-- Trigger/Open The Modal -->
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<!-- The Modal -->
+<div id="myModal" class="modal">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  <!-- Modal content -->
+  <div class="modal-content">
+    <div class="modal-header">
+      <span class="close">&times;</span>
+      <h2>Notice and Tips</h2>
+    </div>
+    <div class="modal-body">
+      <p>First I apologise that I get some design failture and I promise I will Improve,  ad don't be hesitate to emeil a comment to mail@andrewyg.net, Thanks a lot. </p>
+      <p>And if you didn't hear the music press the music button on the right center to play or pause.</p>
+    </div>
+    <div class="modal-footer">
+      <h3>Powered by Andrewyg and W3School</h3>
+    </div>
+  </div>
 
-```markdown
-Syntax highlighted code block
+</div>
+        <br><center>
+        <img class="resize" src='edited christmas pic.jpg'> 
+        <p>stop other music put on your earphone listen the music,<br> if the music didn't play press the button on the right    
+        </p>
+          </center><br>
+        <div id="music">
+        <!--music-->
+        <audio src="Chris Trousdale - Wild Christmas.mp3" controls loop autoplay>
+<p>If you are reading this, it is because your browser does not support the audio element.</p>
+</audio>
+        </div>
 
-# Header 1
-## Header 2
-### Header 3
+       <p>
+         Time flies, two years went by since we met. In these two years we have been through many festival together. </p>
+        <p>
+         I remember the thanksgiving the most. In the first year we can  feel the tension of the thanksgiving night where everybody meet and eat together.
+          And we also get out to the playground and watch those kids playing with each other</p>
+        <p>I get many good memories as we wnt through these 2 semester,</p>
+        <st>Now I wish you Merry Christmas and a Happy New Year</st><br>
+        <sig>Sincerely,<br>Andrew</sig>
 
-- Bulleted
-- List
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br><br><br>
+      <br><br><br><br><br><br><br>
+      <br>
+      <br>
+        
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Andrewtaiwan/files/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+      
+    </div>
+    </div>
+    
+  
+  </body>
+</html>
+'''
