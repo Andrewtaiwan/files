@@ -1,6 +1,6 @@
 #HTML example of [Andrewyg-Files](http://files.andrewyg.net)
 
-'''html
+```html
 <!DOCTYPE html>
 <html lang="en-us">
   <head>
@@ -85,4 +85,4 @@
   
   </body>
 </html>
-'''
+```
