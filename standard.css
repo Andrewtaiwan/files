@@ -1,11 +1,12 @@
 div #music {
   position: fixed;
-  clip: rect(0px,65px,38px,0px);
+  clip: rect(0px,30px,38px,0px);
   right: 1px;
   top:1px;
   width:31px;
   margin-right:5px;
   background: #00ffff;
+  color: #00ffff;
 }
 
 st {
