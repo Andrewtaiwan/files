@@ -1,9 +1,10 @@
 div #music {
   position: fixed;
-  clip: rect(0px,90px,31px,0px);
+  clip: rect(0px,70px,31px,0px);
   right: 1px;
   top:1px;
   width:31px;
+  margin-right:3px;
   background: #00ffff;
 }
 
@@ -25,7 +26,14 @@ div .inner {
 div.title {
   font-family: 'Megrim', cursive;
 }
-
+.colormix {
+  height: auto;
+  background: #4eecfd; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(#4eecfd, #0006fb); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#4eecfd, #0006fb); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#4eecfd, #0006fb); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#4eecfd, #0006fb); /* Standard syntax (must be last) */
+}
 //web style
 body { 
   background:  url('background.gif') no-repeat center center fixed; 
