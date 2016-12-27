@@ -1,6 +1,6 @@
 #HTML example of [Andrewyg-Files](http://files.andrewyg.net)
 
-'''HTML
+'''html
 <!DOCTYPE html>
 <html lang="en-us">
   <head>
@@ -21,7 +21,7 @@
       <div class="title">
         <br><br>
         <center>
-        <ti class="center">Merry Christmas Lulu</ti>
+        <ti class="center">Title</ti>
         </center>
           </div>
       <div class="inner">
@@ -60,14 +60,8 @@
 </audio>
         </div>
 
-       <p>
-         Time flies, two years went by since we met. In these two years we have been through many festival together. </p>
-        <p>
-         I remember the thanksgiving the most. In the first year we can  feel the tension of the thanksgiving night where everybody meet and eat together.
-          And we also get out to the playground and watch those kids playing with each other</p>
-        <p>I get many good memories as we wnt through these 2 semester,</p>
-        <st>Now I wish you Merry Christmas and a Happy New Year</st><br>
-        <sig>Sincerely,<br>Andrew</sig>
+       
+        <sig>Sincerely,<br>your_name</sig>
 
       <br>
       <br>
