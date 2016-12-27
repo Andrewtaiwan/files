@@ -26,31 +26,11 @@
           </div>
       <div class="inner">
         <br>
-        <!-- Trigger/Open The Modal -->
+        
 
-
-<!-- The Modal -->
-<div id="myModal" class="modal">
-
-  <!-- Modal content -->
-  <div class="modal-content">
-    <div class="modal-header">
-      <span class="close">&times;</span>
-      <h2>Notice and Tips</h2>
-    </div>
-    <div class="modal-body">
-      <p>First I apologise that I get some design failture and I promise I will Improve,  ad don't be hesitate to emeil a comment to mail@andrewyg.net, Thanks a lot. </p>
-      <p>And if you didn't hear the music press the music button on the right center to play or pause.</p>
-    </div>
-    <div class="modal-footer">
-      <h3>Powered by Andrewyg and W3School</h3>
-    </div>
-  </div>
-
-</div>
         <br><center>
-        <img class="resize" src='edited christmas pic.jpg'> 
-        <p>stop other music put on your earphone listen the music,<br> if the music didn't play press the button on the right    
+        <img class="resize" src='no_image.jpg'> 
+        <p>note..    
         </p>
           </center><br>
         <div id="music">
