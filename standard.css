@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Codystar|Cookie|Cormorant+Upright|Hind|Megrim');
+
 div #music {
   position: fixed;
   clip: rect(0px,30px,38px,0px);
@@ -22,6 +24,10 @@ sig {
   text-align:right;
 }
 div .inner {
+  font-family: 'Hind', sans-serif;
+}
+
+bq {
   font-family: 'Cormorant Upright', serif;
 }
 div.title {
