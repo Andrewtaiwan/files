@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>Christmas Season of AYTW</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- old cookie font version  <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet">  -->
+    <link rel="stylesheet" type="text/css" href="http://files.andrewyg.net/standard.css">
+
+    <link href="https://fonts.googleapis.com/css?family=Codystar|Cookie|Cormorant+Upright|Megrim" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="standard.css" media="screen">
+    <link rel="shortcut icon" href="logo/Aylogo.ico" />
+    <link rel="apple-touch-icon" href="logo/Aylogo.png" />
+  </head>
+  
+  <body>
+
+<div id="music">
+        <!--music-->
+        <audio src="http://vvip1.andrewyg.net/Chris Trousdale - Wild Christmas.mp3" controls loop>
+<p>If you are reading this, it is because your browser does not support the audio element.</p><br>
+</audio>
+        </div>
+        </body>
+        </html>
